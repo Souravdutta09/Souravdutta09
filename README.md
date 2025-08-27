@@ -6,6 +6,7 @@
 - 🎓 B.Tech in Computer Science  
 - ⚡ Interested in Web Dev, AI/ML, and Cloud Computing  
 - 🌱 Currently learning Next.js & SaaS development
+- 👯 I’m looking to collaborate on a Full-Stack Project
 - 
 ![Profile views](https://komarev.com/ghpvc/?username=Souravdutta09&color=blue)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/sourav-dutta-195934237)
@@ -41,7 +42,8 @@
 ![Coding](https://i.imgur.com/A6bWGFl.gif)  
 > "Code is like humor. When you have to explain it, it’s bad."
 
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Souravdutta09/Souravdutta09/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Souravdutta09/Souravdutta09/blob/output/snake.svg)
 
 <!--
 **Souravdutta09/Souravdutta09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
