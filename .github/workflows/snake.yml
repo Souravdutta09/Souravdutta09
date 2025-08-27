@@ -1,10 +1,16 @@
-name: Generate Snake
+# Name of the workflow
+name: Generate Snake Animation
 
+# Controls when the action will run
 on:
+  # Run automatically on a schedule (e.g., daily at midnight UTC)
   schedule:
-    - cron: "0 0 * * *"   # Runs daily
-  workflow_dispatch:       # Allow manual run
+    - cron: "0 0 * * *"
 
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Grant permissions for the workflow to write to the repository
 permissions:
   contents: write
 
@@ -12,15 +18,31 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      # Step 1: Check out the repository's code so the workflow can access it
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Step 2: Generate the snake SVG file
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Souravdutta09
+          # Your GitHub username
+          github_user_name: ${{ github.repository_owner }}
+          
+          # A list of output files to generate
+          # In this case, it creates a standard and a dark-mode version
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # Step 3: Commit and push the generated files to the 'output' branch
       - name: Push to output branch
-        uses: actions/upload-artifact@v3
+        uses: crazy-max/ghaction-github-pages@v3
         with:
-          name: snake
-          path: dist/github-contribution-grid-snake.svg
+          # The branch to push the generated files to
+          target_branch: output
+          # The directory that contains the files to be pushed
+          build_dir: dist
+        env:
+          # A personal access token is required to push to the repository
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
