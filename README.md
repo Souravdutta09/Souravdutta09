@@ -46,6 +46,9 @@
 ![Snake animation](https://github.com/Souravdutta09/Souravdutta09/blob/output/snake.svg)
 ![Snake animation](https://raw.githubusercontent.com/Souravdutta09/Souravdutta09/output/github-contribution-grid-snake.svg)
 
+![Snake animation](https://raw.githubusercontent.com/Souravdutta09/Souravdutta09/output/github-contribution-grid-snake.svg)
+
+
 
 <!--
 **Souravdutta09/Souravdutta09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
