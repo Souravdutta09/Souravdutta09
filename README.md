@@ -42,11 +42,9 @@
 ![Coding](https://i.imgur.com/A6bWGFl.gif)  
 > "Code is like humor. When you have to explain it, it’s bad."
 
-![Snake animation](https://github.com/Souravdutta09/Souravdutta09/blob/output/github-contribution-grid-snake.svg)
-![Snake animation](https://github.com/Souravdutta09/Souravdutta09/blob/output/snake.svg)
-![Snake animation](https://raw.githubusercontent.com/Souravdutta09/Souravdutta09/output/github-contribution-grid-snake.svg)
 
 ![Snake animation](https://raw.githubusercontent.com/Souravdutta09/Souravdutta09/output/github-contribution-grid-snake.svg)
+
 
 
 
