@@ -44,7 +44,7 @@
 
 
 ![Snake animation](https://raw.githubusercontent.com/Souravdutta09/Souravdutta09/output/github-contribution-grid-snake.svg)
-
+![github contribution grid snake animation](https://raw.githubusercontent.com/Souravdutta09/Souravdutta09/output/github-contribution-grid-snake.svg)
 
 
 
