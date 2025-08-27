@@ -42,13 +42,11 @@
 ![Coding](https://i.imgur.com/A6bWGFl.gif)  
 > "Code is like humor. When you have to explain it, it’s bad."
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Souravdutta09/Souravdutta09/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Souravdutta09/Souravdutta09/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Souravdutta09/Souravdutta09/output/github-contribution-grid-snake.svg">
 </picture>
-![github contribution grid snake animation](https://raw.githubusercontent.com/Souravdutta09/Souravdutta09/output/github-contribution-grid-snake.svg)
 
 
 
